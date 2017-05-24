@@ -1,0 +1,143 @@
+#container{
+	width:960px;
+	height:1000px;
+	margin:0 auto;
+}
+#ustBanner{
+	width:960px;
+	height:42px;
+}
+#solUstBanner{
+	width:640px;
+	height:25px;
+	background-color:#064768;
+	float:left;
+}
+#sagUstBanner{
+	width:320px;
+	height:42px;
+	background-color:#064768;
+	float:left;
+}
+#banner{
+	width:960px;
+	height:96px;
+}
+#logo{
+	width:197px;
+	height:96px;
+	float:left;	
+}
+#bannerInfo{
+	width:443px;
+	height:90px;
+	float:left;
+	border-width: 2px;
+   border-bottom: 2px #db7008 solid;
+}
+#dolar{
+	width:10px;
+	height20px;	
+	margin-top:30px;
+}
+#euro{
+	width:15px;
+	height:30px;
+}
+#gold{
+	width:25px;
+	height:40px;
+}
+#air{
+	width:25px;
+	height:35px;
+}
+.yazi{
+	font-family:Myriad Pro;
+}
+#sagBanner{
+	width:300px;
+	height:90px;
+	float:left;
+	padding-top:18px;
+	border-width:2px;
+	border-bottom:2px;
+	color:#db7008 solid;
+}
+#buyutec{
+	width:20px;
+	height:20px;
+}
+#takvim{
+	width:20px;
+	height:20px;
+}
+#aranacak{
+	width:100px;
+	color:grey;
+	border:0px;
+	font-style:italic;
+}
+#kategori{
+	color:dc8c00;
+	border:0px;
+}
+#select option{
+	color:00000;
+}
+#takvim{
+color:#dc8c00;
+}
+#menu{
+width:960px;
+height:40px;
+background-color:red;
+}
+#menuListeli{
+	display:inline;
+	color:#fff;
+	font-size:19px;
+	padding-left:7px;
+}
+#menuListe{
+	padding-top:8px;
+}
+#resimGaleri{
+	width:630px;
+	height:300px;
+	background-color:red;
+	float:left;
+	margin-top:10px;	
+}
+#kucukHaberler{
+	width:320px;
+	height:300px;
+	background-color:grey;
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+}
+#galeri{
+	width:630px;
+	height:260px;
+}
+#galeriListe{
+	font-size:19px;
+	color:#fff;
+	margin-top:15px;
+	word-spacing:13px;
+	margin-left:10px;
+}
+.galeriListeli{
+	display:inline;
+	
+}
+#galeriListeDiv{
+	width:630px;
+	height:460x;
+	background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#fa800a,db7008); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, yellow); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, yellow); /* Standard syntax */
+}
