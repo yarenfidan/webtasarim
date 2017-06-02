@@ -1,0 +1,55 @@
+body{
+	background:ddd;
+}
+#logo {
+	width:600px;
+	height:300px;
+	float:left;	
+	padding-top:18px;
+	float:left;
+}
+#banner {
+	width:1350px;
+	height:70px;
+	float:left;	
+	border:1px solid #ddd;
+	background-color:purple
+}	
+
+#baski al{
+	width:5px;
+	height:5px;	
+	margin-top:30px;
+	margin-bottom:50px;
+	
+}
+#ogren{
+	width:5px;
+	height:5px;
+	border-bottom: 50px
+}
+#katil{
+	width:10px;
+	height:10px;
+}
+#kesfet{
+	width:10px;
+	height:10px;
+}
+#giris yap {
+	width:10px;
+	height:10px;
+}
+#div {
+    width:150px;
+    border:10px gray;
+    padding:20px;
+    margin:20px;
+	border-width:2px;
+    border-bottom:2px #db7008 solid;
+}
+#arkaplan{
+	width:800px;
+	height:500px;
+}
+
